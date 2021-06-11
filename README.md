@@ -3,6 +3,7 @@ Find an in-depth assignment description in the Google Doc [here](https://docs.go
 
 ### Index
 File: `weather/templates/weather/index.html`
+
 URL: `http://localhost:8000/weather/`
 
 ### Files to edit
