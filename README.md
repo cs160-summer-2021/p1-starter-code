@@ -1,9 +1,9 @@
 # P1
-Find an in-depth assignment description in the Google Doc [here](https://docs.google.com/document/d/18VBl8AfogpKVgx7QG7TTYnWRRpO8nH_w53q8Rxrk1H4). 
+Find an in-depth assignment description in the Google Doc [here](https://docs.google.com/document/d/1xXc3rhyJF0DQz-pQHD-rVkBbjE7yo8WIQvCPbBne0XE). 
 
 ### Index
 File: `weather/templates/weather/index.html`
-URL: `http://<your host IP here>:8000/weather/`
+URL: `http://localhost:8000/weather/`
 
 ### Files to edit
 * Forecast (single location) no alert: `weather/templates/weather/forecast.html`
@@ -13,7 +13,7 @@ URL: `http://<your host IP here>:8000/weather/`
 * CSS for styling: `weather/static/weather/css/style.css`
 
 ### URLs to access
-* Index: `http://<your host IP here>:8000/weather/`
+* Index: `http://localhost:8000/weather/`
 * Forecast (single location) no alert: `weather/templates/weather/forecast/`
 * Forecast (single location) with alert: `weather/templates/weather/forecast/alert/`
 * Comparison across locations no alert: `weather/templates/weather/comparison/`
